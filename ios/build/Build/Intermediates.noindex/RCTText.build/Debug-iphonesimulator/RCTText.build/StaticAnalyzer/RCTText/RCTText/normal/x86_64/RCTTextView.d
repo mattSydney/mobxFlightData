@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/mafkhw/Documents/Development/ReactNative/Tutorials/Mobx/mobxFlightData/node_modules/react-native/Libraries/Text/RCTTextTransform.h

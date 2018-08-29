@@ -1,0 +1,3 @@
+rootProject.name = 'mobxFlightData'
+
+include ':app'
